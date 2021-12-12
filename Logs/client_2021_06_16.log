@@ -1,0 +1,47 @@
+2021-06-16 08:20:27,413: INFO infoCategory : tcp begin connect! address=127.0.0.1 port=35600
+2021-06-16 08:20:27,414: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:20:27,414: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:20:27,419: INFO infoCategory : [todesk] CreateClipboardView 49287 49493 
+2021-06-16 08:20:27,419: INFO infoCategory : [todesk] CreateClipboardView 0
+2021-06-16 08:20:27,419: INFO infoCategory : Clipboard  old  0
+2021-06-16 08:20:27,419: INFO infoCategory : [todesk] CreateClipboardView 49287 49493 
+2021-06-16 08:20:27,419: INFO infoCategory : [todesk] CreateClipboardView 0
+2021-06-16 08:20:27,519: INFO infoCategory : createtray = 1
+2021-06-16 09:54:54,872: INFO infoCategory : VIDEO_CLIENT begin connect transfer server!!!
+2021-06-16 09:54:54,907: INFO infoCategory : tcp begin connect! address=106.75.167.169 port=443
+2021-06-16 09:54:54,907: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 09:54:54,907: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 09:54:55,030: INFO infoCategory : VIDEO_CLIENT  transfer destroy! ip=106.75.167.169 port=443
+2021-06-16 09:55:23,419: INFO infoCategory : disconnect=2176
+2021-06-16 09:55:23,419: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 09:55:23,419: INFO infoCategory : disconnect=2176
+2021-06-16 09:55:23,419: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 09:55:23,420: INFO infoCategory : close socket err! errno=10038
+2021-06-16 09:55:23,420: INFO infoCategory : tcp begin connect! address=218.5.241.29 port=25000
+2021-06-16 09:55:23,420: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 09:55:23,420: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 09:55:28,419: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 09:55:49,741: INFO infoCategory : client upnp connect result = 0
+2021-06-16 09:55:49,848: INFO infoCategory : disconnect=2176
+2021-06-16 09:55:49,848: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 09:57:43,815: INFO infoCategory : client conn disconnect!! sock=1496
+2021-06-16 09:57:43,815: INFO infoCategory : disconnect=1496
+2021-06-16 09:57:43,815: INFO infoCategory : sock recv err!! sock=1496 errno=10004
+2021-06-16 09:57:43,815: INFO infoCategory : end while err
+2021-06-16 09:57:43,815: INFO infoCategory : sock write err!! sock=1496 errno=0
+2021-06-16 09:57:43,815: INFO infoCategory : client nettype(0) write msg err! outlen=16
+2021-06-16 09:57:43,820: INFO infoCategory : RemoveClientConnectionBySock delConn=1
+2021-06-16 09:57:43,820: INFO infoCategory : destroy client conn begin!sock=1496
+2021-06-16 09:57:43,828: INFO infoCategory : Upnp stop!
+2021-06-16 09:57:43,828: INFO infoCategory : disconnect=2080
+2021-06-16 09:57:43,828: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 09:57:43,828: INFO infoCategory : Upnp destroy!
+2021-06-16 09:57:43,828: INFO infoCategory : Upnp stop!
+2021-06-16 09:57:43,828: INFO infoCategory : upnp broken!
+2021-06-16 09:57:43,828: INFO infoCategory : disconnect=2080
+2021-06-16 09:57:43,828: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 09:57:43,828: INFO infoCategory : close socket err! errno=10038
+2021-06-16 09:57:43,896: INFO infoCategory : disconnect=1496
+2021-06-16 09:57:43,896: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 09:57:43,896: INFO infoCategory : close socket err! errno=10038
+2021-06-16 09:57:43,897: INFO infoCategory : destroy client conn end!

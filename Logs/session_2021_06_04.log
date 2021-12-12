@@ -1,0 +1,22 @@
+2021-06-04 09:55:17,713: INFO infoCategory : tcp begin connect! address=127.0.0.1 port=35600
+2021-06-04 09:55:17,713: INFO infoCategory : tcp end connect! ret=-1
+2021-06-04 09:55:17,713: INFO infoCategory : tcp connect err! begin select!!
+2021-06-04 09:55:17,812: INFO infoCategory : Failed to duplicate output from IDXGIOutput1, error with code 
+2021-06-04 09:55:17,812: INFO infoCategory : Failed to initialize DxgiOutputDuplicator on output 0
+2021-06-04 09:55:17,816: INFO infoCategory : Cannot initialize any DxgiOutputDuplicator instance
+2021-06-04 09:55:17,816: INFO infoCategory : Failed to initialize DxgiAdapterDuplicator on adapter 1
+2021-06-04 09:55:17,817: INFO infoCategory : Cannot initialize any DxgiOutputDuplicator instance
+2021-06-04 09:55:17,817: INFO infoCategory : Failed to initialize DxgiAdapterDuplicator on adapter 2
+2021-06-04 09:55:17,821: INFO infoCategory : Using DXGI capturer
+2021-06-04 09:55:17,821: INFO infoCategory : screenCount = 2
+2021-06-04 09:55:25,036: INFO infoCategory : CDxgiOutputDuplicator::duplicate AcquireNextFrame err!code= -2005270490
+2021-06-04 09:55:25,050: INFO infoCategory : DxgiDuplicatorController failed to capture desktop, error code Duplication failed
+2021-06-04 09:55:25,051: INFO infoCategory : capture err! reselect capturer!
+2021-06-04 09:55:25,125: INFO infoCategory : Failed to duplicate output from IDXGIOutput1, error with code 
+2021-06-04 09:55:25,125: INFO infoCategory : Failed to initialize DxgiOutputDuplicator on output 0
+2021-06-04 09:55:25,127: INFO infoCategory : Cannot initialize any DxgiOutputDuplicator instance
+2021-06-04 09:55:25,127: INFO infoCategory : Failed to initialize DxgiAdapterDuplicator on adapter 1
+2021-06-04 09:55:25,127: INFO infoCategory : Cannot initialize any DxgiOutputDuplicator instance
+2021-06-04 09:55:25,127: INFO infoCategory : Failed to initialize DxgiAdapterDuplicator on adapter 2
+2021-06-04 09:55:25,131: INFO infoCategory : Using DXGI capturer
+2021-06-04 09:55:33,293: INFO infoCategory : sock recv err!! sock=580 errno=0

@@ -1,0 +1,43 @@
+2021-07-16 09:16:06,576: INFO infoCategory : tcp begin connect! address=127.0.0.1 port=35600
+2021-07-16 09:16:06,576: INFO infoCategory : tcp end connect! ret=-1
+2021-07-16 09:16:06,576: INFO infoCategory : tcp connect err! begin select!!
+2021-07-16 09:16:06,581: INFO infoCategory : [todesk] CreateClipboardView 49278 49455 
+2021-07-16 09:16:06,581: INFO infoCategory : [todesk] CreateClipboardView 0
+2021-07-16 09:16:06,581: INFO infoCategory : Clipboard  old  0
+2021-07-16 09:16:06,581: INFO infoCategory : [todesk] CreateClipboardView 49278 49455 
+2021-07-16 09:16:06,581: INFO infoCategory : [todesk] CreateClipboardView 0
+2021-07-16 09:16:06,694: INFO infoCategory : createtray = 1
+2021-07-16 09:17:13,989: INFO infoCategory : VIDEO_CLIENT begin connect transfer server!!!
+2021-07-16 09:17:14,007: INFO infoCategory : tcp begin connect! address=106.75.175.200 port=443
+2021-07-16 09:17:14,007: INFO infoCategory : tcp end connect! ret=-1
+2021-07-16 09:17:14,007: INFO infoCategory : tcp connect err! begin select!!
+2021-07-16 09:17:14,063: INFO infoCategory : VIDEO_CLIENT  transfer destroy! ip=106.75.175.200 port=443
+2021-07-16 09:17:33,553: INFO infoCategory : disconnect=2236
+2021-07-16 09:17:33,553: INFO infoCategory : shutdown socket err! errno=10057
+2021-07-16 09:17:33,553: INFO infoCategory : disconnect=2236
+2021-07-16 09:17:33,553: INFO infoCategory : shutdown socket err! errno=10038
+2021-07-16 09:17:33,554: INFO infoCategory : close socket err! errno=10038
+2021-07-16 09:17:33,554: INFO infoCategory : tcp begin connect! address=218.5.241.29 port=25000
+2021-07-16 09:17:33,554: INFO infoCategory : tcp end connect! ret=-1
+2021-07-16 09:17:33,554: INFO infoCategory : tcp connect err! begin select!!
+2021-07-16 09:17:38,553: INFO infoCategory : sock connect select err!! errno=0
+2021-07-16 09:17:59,874: INFO infoCategory : client upnp connect result = 0
+2021-07-16 09:17:59,981: INFO infoCategory : disconnect=2236
+2021-07-16 09:17:59,981: INFO infoCategory : shutdown socket err! errno=10057
+2021-07-16 09:20:28,371: INFO infoCategory : clinet begin register p2p
+2021-07-16 09:20:43,794: INFO infoCategory : clinet begin register p2p
+2021-07-16 09:20:59,204: INFO infoCategory : clinet begin register p2p
+2021-07-16 09:21:14,608: INFO infoCategory : clinet begin register p2p
+2021-07-16 09:21:30,033: INFO infoCategory : clinet begin register p2p
+2021-07-16 09:21:45,452: INFO infoCategory : clinet begin register p2p
+2021-07-16 09:22:00,858: INFO infoCategory : clinet begin register p2p
+2021-07-16 09:22:16,273: INFO infoCategory : clinet begin register p2p
+2021-07-16 09:22:31,698: INFO infoCategory : clinet begin register p2p
+2021-07-16 09:22:47,111: INFO infoCategory : clinet begin register p2p
+2021-07-16 09:23:02,534: INFO infoCategory : clinet begin register p2p
+2021-07-16 09:23:17,985: INFO infoCategory : clinet begin register p2p
+2021-07-16 09:23:33,381: INFO infoCategory : clinet begin register p2p
+2021-07-16 09:23:48,796: INFO infoCategory : clinet begin register p2p
+2021-07-16 09:24:04,193: INFO infoCategory : clinet begin register p2p
+2021-07-16 09:24:19,621: INFO infoCategory : clinet begin register p2p
+2021-07-16 16:13:31,761: INFO infoCategory : [todesk] CScopedClipboard CloseClipboard

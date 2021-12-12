@@ -1,0 +1,25 @@
+2021-06-13 15:08:16,825: INFO infoCategory : tcp begin connect! address=106.75.184.149 port=443
+2021-06-13 15:08:16,826: INFO infoCategory : tcp end connect! ret=-1
+2021-06-13 15:08:16,826: INFO infoCategory : tcp connect err! begin select!!
+2021-06-13 15:08:16,826: INFO infoCategory : CreateNamedPipe ok!! name=\\.\pipe\todesk_pipe
+2021-06-13 15:08:16,934: INFO infoCategory : center client doAuth ok!! sock=788
+2021-06-13 15:08:18,278: INFO infoCategory : disconnect=1128
+2021-06-13 15:08:18,278: INFO infoCategory : OnServiceControlStartClient!
+2021-06-13 15:08:18,284: INFO infoCategory : CreateProcessAsUserA localprocess is show = 1   processPath="D:\toDesk\ToDesk.exe"
+2021-06-13 15:08:18,300: INFO infoCategory : CreateProcessAsUserA success pid=29152
+2021-06-13 20:41:44,040: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-06-13 20:41:45,075: INFO infoCategory : Service Control Session Changed begin!! msgid=7
+2021-06-14 08:02:50,646: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-06-14 08:02:50,653: INFO infoCategory : Service Control Session Changed begin!! msgid=8
+2021-06-14 11:16:49,724: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-06-14 11:16:49,724: INFO infoCategory : Service Control Session Changed begin!! msgid=7
+2021-06-14 14:15:29,717: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-06-14 14:15:29,717: INFO infoCategory : Service Control Session Changed begin!! msgid=8
+2021-06-14 17:23:53,899: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-06-14 17:23:53,996: INFO infoCategory : Service Control Session Changed begin!! msgid=7
+2021-06-14 17:24:21,140: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-06-14 17:24:21,140: INFO infoCategory : Service Control Session Changed begin!! msgid=8
+2021-06-14 17:41:26,575: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-06-14 17:41:26,576: INFO infoCategory : Service Control Session Changed begin!! msgid=7
+2021-06-15 07:46:58,616: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-06-15 07:46:58,616: INFO infoCategory : Service Control Session Changed begin!! msgid=8

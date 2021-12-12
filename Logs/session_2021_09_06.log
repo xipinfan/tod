@@ -1,0 +1,15 @@
+2021-09-06 23:10:37,061: INFO infoCategory : start session audio = 0 encode = 0
+2021-09-06 23:10:37,062: INFO infoCategory : tcp begin connect! address=127.0.0.1 port=35600
+2021-09-06 23:10:37,062: INFO infoCategory : tcp end connect! ret=-1
+2021-09-06 23:10:37,062: INFO infoCategory : tcp connect err! begin select!!
+2021-09-06 23:10:37,195: INFO infoCategory : Failed to duplicate output from IDXGIOutput1, error with code 
+2021-09-06 23:10:37,195: INFO infoCategory : Failed to initialize DxgiOutputDuplicator on output 0
+2021-09-06 23:10:37,195: INFO infoCategory : Cannot initialize any DxgiOutputDuplicator instance
+2021-09-06 23:10:37,195: INFO infoCategory : Failed to initialize DxgiAdapterDuplicator on adapter 0
+2021-09-06 23:10:37,195: INFO infoCategory : Cannot initialize any DxgiOutputDuplicator instance
+2021-09-06 23:10:37,195: INFO infoCategory : Failed to initialize DxgiAdapterDuplicator on adapter 1
+2021-09-06 23:10:37,195: INFO infoCategory : Cannot initialize any DxgiOutputDuplicator instance
+2021-09-06 23:10:37,195: INFO infoCategory : Failed to initialize DxgiAdapterDuplicator on adapter 2
+2021-09-06 23:10:37,195: INFO infoCategory : Cannot initialize any DxgiAdapterDuplicator instance
+2021-09-06 23:10:37,211: INFO infoCategory : Using gdi capturer
+2021-09-06 23:10:37,212: INFO infoCategory : screenCount = 1

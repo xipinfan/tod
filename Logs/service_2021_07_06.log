@@ -1,0 +1,20 @@
+2021-07-06 09:25:30,316: INFO infoCategory : tcp begin connect! address=106.75.188.26 port=443
+2021-07-06 09:25:30,316: INFO infoCategory : tcp end connect! ret=-1
+2021-07-06 09:25:30,316: INFO infoCategory : tcp connect err! begin select!!
+2021-07-06 09:25:30,317: INFO infoCategory : CreateNamedPipe ok!! name=\\.\pipe\todesk_pipe
+2021-07-06 09:25:30,420: INFO infoCategory : center client doAuth ok!! sock=872
+2021-07-06 09:25:31,759: INFO infoCategory : disconnect=1104
+2021-07-06 09:25:31,759: INFO infoCategory : OnServiceControlStartClient!
+2021-07-06 09:25:31,759: INFO infoCategory : launchclient! sessionId=1
+2021-07-06 09:25:31,765: INFO infoCategory : process=explorer.exe sessionid=1
+2021-07-06 09:25:31,765: INFO infoCategory : CreateProcessAsUserA localprocess is show = 1   processPath="D:\toDesk\ToDesk.exe" 10952
+2021-07-06 09:25:31,782: INFO infoCategory : CreateProcessAsUserA success 1 pid=5940
+2021-07-06 16:52:33,305: INFO infoCategory : sock recv err!! sock=1248 errno=10054
+2021-07-06 16:52:33,306: INFO infoCategory : LocalConnErrMsg!
+2021-07-06 16:52:33,306: INFO infoCategory : disconnect=1248
+2021-07-06 16:52:33,306: INFO infoCategory : disconnect=1248
+2021-07-06 16:52:33,306: INFO infoCategory : shutdown socket err! errno=10038
+2021-07-06 16:52:33,306: INFO infoCategory : close socket err! errno=10038
+2021-07-06 16:52:35,394: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-07-06 16:52:35,394: INFO infoCategory : Service Control Session Changed begin!! msgid=6
+2021-07-06 16:52:37,735: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SHUTDOWN|SERVICE_CONTROL_STOP!

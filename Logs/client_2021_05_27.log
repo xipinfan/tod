@@ -1,0 +1,175 @@
+2021-05-27 20:47:36,748: INFO infoCategory : tcp begin connect! address=127.0.0.1 port=35600
+2021-05-27 20:47:36,750: INFO infoCategory : [todesk] CreateClipboardView 49304 49517 
+2021-05-27 20:47:36,762: INFO infoCategory : [todesk] CreateClipboardView 0
+2021-05-27 20:47:36,762: INFO infoCategory : Clipboard  old  0
+2021-05-27 20:47:36,762: INFO infoCategory : [todesk] CreateClipboardView 49304 49517 
+2021-05-27 20:47:36,762: INFO infoCategory : [todesk] CreateClipboardView 0
+2021-05-27 20:47:36,762: INFO infoCategory : tcp end connect! ret=-1
+2021-05-27 20:47:36,762: INFO infoCategory : tcp connect err! begin select!!
+2021-05-27 20:47:40,091: INFO infoCategory : sock recv err!! sock=1412 errno=0
+2021-05-27 20:47:42,097: INFO infoCategory : disconnect=1412
+2021-05-27 20:47:42,098: INFO infoCategory : disconnect=1412
+2021-05-27 20:47:42,098: INFO infoCategory : shutdown socket err! errno=10038
+2021-05-27 20:47:42,098: INFO infoCategory : close socket err! errno=10038
+2021-05-27 20:47:42,098: INFO infoCategory : tcp begin connect! address=127.0.0.1 port=35600
+2021-05-27 20:47:42,098: INFO infoCategory : tcp end connect! ret=-1
+2021-05-27 20:47:42,098: INFO infoCategory : tcp connect err! begin select!!
+2021-05-27 20:47:45,098: INFO infoCategory : sock connect select err!! errno=0
+2021-05-27 20:47:45,098: INFO infoCategory : lcoal client sock auth err! sock=1432 use pipe mode!
+2021-05-27 20:47:45,098: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:47:46,099: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:47:46,099: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:47:47,100: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:47:47,100: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:47:48,100: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:47:48,100: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:47:49,100: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:47:49,100: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:47:50,100: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:47:50,101: INFO infoCategory : pipe SetNamedPipeHandleState failed!! errnum=6 name=\\.\pipe\todesk_pipe
+2021-05-27 20:47:50,101: INFO infoCategory : lcoal client pipe auth err!
+2021-05-27 20:47:52,094: INFO infoCategory : disconnect=1432
+2021-05-27 20:47:52,094: INFO infoCategory : shutdown socket err! errno=10057
+2021-05-27 20:47:52,094: INFO infoCategory : tcp begin connect! address=127.0.0.1 port=35600
+2021-05-27 20:47:52,095: INFO infoCategory : tcp end connect! ret=-1
+2021-05-27 20:47:52,095: INFO infoCategory : tcp connect err! begin select!!
+2021-05-27 20:47:55,094: INFO infoCategory : sock connect select err!! errno=0
+2021-05-27 20:47:55,094: INFO infoCategory : lcoal client sock auth err! sock=1424 use pipe mode!
+2021-05-27 20:47:55,095: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:47:56,096: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:47:56,096: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:47:57,097: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:47:57,097: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:47:58,097: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:47:58,097: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:47:59,097: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:47:59,097: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:00,098: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:00,098: INFO infoCategory : pipe SetNamedPipeHandleState failed!! errnum=6 name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:00,098: INFO infoCategory : lcoal client pipe auth err!
+2021-05-27 20:48:02,094: INFO infoCategory : disconnect=1424
+2021-05-27 20:48:02,094: INFO infoCategory : shutdown socket err! errno=10057
+2021-05-27 20:48:02,094: INFO infoCategory : tcp begin connect! address=127.0.0.1 port=35600
+2021-05-27 20:48:02,095: INFO infoCategory : tcp end connect! ret=-1
+2021-05-27 20:48:02,095: INFO infoCategory : tcp connect err! begin select!!
+2021-05-27 20:48:05,094: INFO infoCategory : sock connect select err!! errno=0
+2021-05-27 20:48:05,094: INFO infoCategory : lcoal client sock auth err! sock=1460 use pipe mode!
+2021-05-27 20:48:05,094: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:06,095: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:06,095: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:07,095: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:07,095: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:08,096: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:08,096: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:09,097: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:09,097: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:10,097: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:10,097: INFO infoCategory : pipe SetNamedPipeHandleState failed!! errnum=6 name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:10,097: INFO infoCategory : lcoal client pipe auth err!
+2021-05-27 20:48:12,093: INFO infoCategory : disconnect=1460
+2021-05-27 20:48:12,093: INFO infoCategory : shutdown socket err! errno=10057
+2021-05-27 20:48:12,093: INFO infoCategory : tcp begin connect! address=127.0.0.1 port=35600
+2021-05-27 20:48:12,093: INFO infoCategory : tcp end connect! ret=-1
+2021-05-27 20:48:12,093: INFO infoCategory : tcp connect err! begin select!!
+2021-05-27 20:48:15,093: INFO infoCategory : sock connect select err!! errno=0
+2021-05-27 20:48:15,093: INFO infoCategory : lcoal client sock auth err! sock=1668 use pipe mode!
+2021-05-27 20:48:15,093: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:16,094: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:16,094: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:17,094: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:17,094: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:18,094: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:18,094: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:19,094: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:19,094: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:20,094: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:20,094: INFO infoCategory : pipe SetNamedPipeHandleState failed!! errnum=6 name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:20,094: INFO infoCategory : lcoal client pipe auth err!
+2021-05-27 20:48:22,095: INFO infoCategory : disconnect=1668
+2021-05-27 20:48:22,095: INFO infoCategory : shutdown socket err! errno=10057
+2021-05-27 20:48:22,095: INFO infoCategory : tcp begin connect! address=127.0.0.1 port=35600
+2021-05-27 20:48:22,095: INFO infoCategory : tcp end connect! ret=-1
+2021-05-27 20:48:22,095: INFO infoCategory : tcp connect err! begin select!!
+2021-05-27 20:48:25,095: INFO infoCategory : sock connect select err!! errno=0
+2021-05-27 20:48:25,095: INFO infoCategory : lcoal client sock auth err! sock=1340 use pipe mode!
+2021-05-27 20:48:25,095: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:26,096: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:26,096: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:27,097: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:27,097: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:28,097: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:28,097: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:29,097: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:29,098: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:30,098: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:30,098: INFO infoCategory : pipe SetNamedPipeHandleState failed!! errnum=6 name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:30,098: INFO infoCategory : lcoal client pipe auth err!
+2021-05-27 20:48:32,093: INFO infoCategory : disconnect=1340
+2021-05-27 20:48:32,093: INFO infoCategory : shutdown socket err! errno=10057
+2021-05-27 20:48:32,093: INFO infoCategory : tcp begin connect! address=127.0.0.1 port=35600
+2021-05-27 20:48:32,093: INFO infoCategory : tcp end connect! ret=-1
+2021-05-27 20:48:32,093: INFO infoCategory : tcp connect err! begin select!!
+2021-05-27 20:48:35,094: INFO infoCategory : sock connect select err!! errno=0
+2021-05-27 20:48:35,094: INFO infoCategory : lcoal client sock auth err! sock=1184 use pipe mode!
+2021-05-27 20:48:35,094: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:36,095: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:36,095: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:37,095: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:37,099: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:38,100: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:38,100: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:39,100: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:39,100: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:40,100: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:40,100: INFO infoCategory : pipe SetNamedPipeHandleState failed!! errnum=6 name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:40,100: INFO infoCategory : lcoal client pipe auth err!
+2021-05-27 20:48:42,098: INFO infoCategory : disconnect=1184
+2021-05-27 20:48:42,098: INFO infoCategory : shutdown socket err! errno=10057
+2021-05-27 20:48:42,098: INFO infoCategory : tcp begin connect! address=127.0.0.1 port=35600
+2021-05-27 20:48:42,098: INFO infoCategory : tcp end connect! ret=-1
+2021-05-27 20:48:42,098: INFO infoCategory : tcp connect err! begin select!!
+2021-05-27 20:48:45,098: INFO infoCategory : sock connect select err!! errno=0
+2021-05-27 20:48:45,098: INFO infoCategory : lcoal client sock auth err! sock=1412 use pipe mode!
+2021-05-27 20:48:45,098: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:46,098: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:46,098: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:47,099: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:47,099: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:48,099: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:48,099: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:49,100: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:49,100: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:50,100: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:50,100: INFO infoCategory : pipe SetNamedPipeHandleState failed!! errnum=6 name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:50,100: INFO infoCategory : lcoal client pipe auth err!
+2021-05-27 20:48:52,100: INFO infoCategory : disconnect=1412
+2021-05-27 20:48:52,100: INFO infoCategory : shutdown socket err! errno=10057
+2021-05-27 20:48:52,101: INFO infoCategory : tcp begin connect! address=127.0.0.1 port=35600
+2021-05-27 20:48:52,101: INFO infoCategory : tcp end connect! ret=-1
+2021-05-27 20:48:52,101: INFO infoCategory : tcp connect err! begin select!!
+2021-05-27 20:48:55,101: INFO infoCategory : sock connect select err!! errno=0
+2021-05-27 20:48:55,101: INFO infoCategory : lcoal client sock auth err! sock=1520 use pipe mode!
+2021-05-27 20:48:55,101: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:56,101: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:56,101: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:57,103: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:57,103: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:58,103: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:58,103: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:48:59,104: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:48:59,104: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:49:00,104: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:49:00,104: INFO infoCategory : pipe SetNamedPipeHandleState failed!! errnum=6 name=\\.\pipe\todesk_pipe
+2021-05-27 20:49:00,105: INFO infoCategory : lcoal client pipe auth err!
+2021-05-27 20:49:02,104: INFO infoCategory : disconnect=1520
+2021-05-27 20:49:02,104: INFO infoCategory : shutdown socket err! errno=10057
+2021-05-27 20:49:02,104: INFO infoCategory : tcp begin connect! address=127.0.0.1 port=35600
+2021-05-27 20:49:02,104: INFO infoCategory : tcp end connect! ret=-1
+2021-05-27 20:49:02,104: INFO infoCategory : tcp connect err! begin select!!
+2021-05-27 20:49:05,104: INFO infoCategory : sock connect select err!! errno=0
+2021-05-27 20:49:05,104: INFO infoCategory : lcoal client sock auth err! sock=1368 use pipe mode!
+2021-05-27 20:49:05,104: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:49:06,104: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:49:06,104: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe
+2021-05-27 20:49:07,105: INFO infoCategory : wait name pipe err!! num=2
+2021-05-27 20:49:07,105: INFO infoCategory : begin connect to server!! name=\\.\pipe\todesk_pipe

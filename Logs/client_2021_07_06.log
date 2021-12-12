@@ -1,0 +1,20 @@
+2021-07-06 09:25:32,613: INFO infoCategory : tcp begin connect! address=127.0.0.1 port=35600
+2021-07-06 09:25:32,614: INFO infoCategory : tcp end connect! ret=-1
+2021-07-06 09:25:32,614: INFO infoCategory : tcp connect err! begin select!!
+2021-07-06 09:25:32,618: INFO infoCategory : [todesk] CreateClipboardView 49279 49464 
+2021-07-06 09:25:32,618: INFO infoCategory : [todesk] CreateClipboardView 0
+2021-07-06 09:25:32,618: INFO infoCategory : Clipboard  old  0
+2021-07-06 09:25:32,618: INFO infoCategory : [todesk] CreateClipboardView 49279 49464 
+2021-07-06 09:25:32,618: INFO infoCategory : [todesk] CreateClipboardView 0
+2021-07-06 09:25:32,727: INFO infoCategory : createtray = 1
+2021-07-06 09:25:42,892: INFO infoCategory : VIDEO_CLIENT begin connect transfer server!!!
+2021-07-06 09:25:42,902: INFO infoCategory : tcp begin connect! address=106.75.175.200 port=443
+2021-07-06 09:25:42,902: INFO infoCategory : tcp end connect! ret=-1
+2021-07-06 09:25:42,902: INFO infoCategory : tcp connect err! begin select!!
+2021-07-06 09:25:47,953: INFO infoCategory : sock recv err!! sock=1708 errno=0
+2021-07-06 09:25:47,953: INFO infoCategory : VIDEO_CLIENT transfer getokstate first read err!sock=1708 ip=106.75.175.200 port=443
+2021-07-06 09:25:47,958: INFO infoCategory : disconnect=1708
+2021-07-06 09:25:47,958: INFO infoCategory : VIDEO_CLIENT transfer destroy!,sock=1708 ip=106.75.175.200 port=443
+2021-07-06 09:25:47,958: INFO infoCategory : disconnect=1708
+2021-07-06 09:25:47,958: INFO infoCategory : shutdown socket err! errno=10038
+2021-07-06 09:25:47,958: INFO infoCategory : close socket err! errno=10038

@@ -1,0 +1,28 @@
+2021-07-16 09:16:04,478: INFO infoCategory : tcp begin connect! address=106.75.188.103 port=443
+2021-07-16 09:16:04,478: INFO infoCategory : tcp end connect! ret=-1
+2021-07-16 09:16:04,478: INFO infoCategory : tcp connect err! begin select!!
+2021-07-16 09:16:04,479: INFO infoCategory : CreateNamedPipe ok!! name=\\.\pipe\todesk_pipe
+2021-07-16 09:16:04,584: INFO infoCategory : center client doAuth ok!! sock=872
+2021-07-16 09:16:05,886: INFO infoCategory : disconnect=1104
+2021-07-16 09:16:05,886: INFO infoCategory : OnServiceControlStartClient!
+2021-07-16 09:16:05,886: INFO infoCategory : launchclient! sessionId=1
+2021-07-16 09:16:05,892: INFO infoCategory : process=explorer.exe sessionid=1
+2021-07-16 09:16:05,892: INFO infoCategory : CreateProcessAsUserA localprocess is show = 1   processPath="D:\toDesk\ToDesk.exe" 8992
+2021-07-16 09:16:05,907: INFO infoCategory : CreateProcessAsUserA success 1 pid=14692
+2021-07-17 07:48:47,399: INFO infoCategory : sock recv err!! sock=1256 errno=10054
+2021-07-17 07:48:47,482: INFO infoCategory : LocalConnErrMsg!
+2021-07-17 07:48:47,482: INFO infoCategory : disconnect=1256
+2021-07-17 07:48:47,486: INFO infoCategory : disconnect=1256
+2021-07-17 07:48:47,486: INFO infoCategory : shutdown socket err! errno=10038
+2021-07-17 07:48:47,486: INFO infoCategory : close socket err! errno=10038
+2021-07-17 07:48:50,362: INFO infoCategory : launchclient! sessionId=1
+2021-07-17 07:48:50,372: INFO infoCategory : process=explorer.exe sessionid=1
+2021-07-17 07:48:50,372: INFO infoCategory : CreateProcessAsUserA localprocess is show = 1   processPath="D:\toDesk\ToDesk.exe" 8992
+2021-07-17 07:48:50,959: INFO infoCategory : CreateProcessAsUserA success 1 pid=6356
+2021-07-17 07:48:54,387: INFO infoCategory : launchclient! sessionId=1
+2021-07-17 07:48:54,393: INFO infoCategory : process=explorer.exe sessionid=1
+2021-07-17 07:48:54,393: INFO infoCategory : CreateProcessAsUserA localprocess is show = 1   processPath="D:\toDesk\ToDesk.exe" 8992
+2021-07-17 07:48:54,406: INFO infoCategory : CreateProcessAsUserA success 1 pid=13208
+2021-07-17 07:48:57,813: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-07-17 07:48:57,813: INFO infoCategory : Service Control Session Changed begin!! msgid=6
+2021-07-17 07:48:59,226: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SHUTDOWN|SERVICE_CONTROL_STOP!

@@ -1,0 +1,24 @@
+2021-10-04 17:38:23,362: INFO infoCategory : tcp begin connect! address=106.75.188.26 port=443
+2021-10-04 17:38:23,363: INFO infoCategory : tcp end connect! ret=-1
+2021-10-04 17:38:23,363: INFO infoCategory : tcp connect err! begin select!!
+2021-10-04 17:38:23,363: INFO infoCategory : CreateNamedPipe ok!! name=\\.\pipe\todesk_pipe
+2021-10-04 17:38:23,965: INFO infoCategory : center client doAuth ok!! sock=896
+2021-10-04 17:38:24,621: INFO infoCategory : disconnect=1124
+2021-10-04 17:38:24,621: INFO infoCategory : OnServiceControlStartClient!
+2021-10-04 17:38:24,621: INFO infoCategory : launchclient! sessionId=1
+2021-10-04 17:38:24,627: INFO infoCategory : process=explorer.exe sessionid=1
+2021-10-04 17:38:24,627: INFO infoCategory : CreateProcessAsUserA localprocess is show = 1   processPath="D:\toDesk\ToDesk.exe" 11656
+2021-10-04 17:38:24,643: INFO infoCategory : CreateProcessAsUserA success 1 pid=5752
+2021-10-04 18:30:43,093: INFO infoCategory : sock recv err!! sock=1168 errno=10054
+2021-10-04 18:30:43,093: INFO infoCategory : LocalConnErrMsg!
+2021-10-04 18:30:43,093: INFO infoCategory : disconnect=1168
+2021-10-04 18:30:43,093: INFO infoCategory : disconnect=1168
+2021-10-04 18:30:43,094: INFO infoCategory : shutdown socket err! errno=10038
+2021-10-04 18:30:43,094: INFO infoCategory : close socket err! errno=10038
+2021-10-04 18:30:45,751: INFO infoCategory : launchclient! sessionId=1
+2021-10-04 18:30:45,757: INFO infoCategory : process=explorer.exe sessionid=1
+2021-10-04 18:30:45,758: INFO infoCategory : CreateProcessAsUserA localprocess is show = 1   processPath="D:\toDesk\ToDesk.exe" 11656
+2021-10-04 18:30:45,770: INFO infoCategory : CreateProcessAsUserA success 1 pid=9844
+2021-10-04 18:30:46,141: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-10-04 18:30:46,141: INFO infoCategory : Service Control Session Changed begin!! msgid=6
+2021-10-04 18:30:46,515: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SHUTDOWN|SERVICE_CONTROL_STOP!

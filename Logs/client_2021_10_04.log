@@ -1,0 +1,42 @@
+2021-10-04 17:38:25,334: INFO infoCategory : tcp begin connect! address=127.0.0.1 port=35600
+2021-10-04 17:38:25,335: INFO infoCategory : tcp end connect! ret=-1
+2021-10-04 17:38:25,335: INFO infoCategory : tcp connect err! begin select!!
+2021-10-04 17:38:25,341: INFO infoCategory : [todesk] CreateClipboardView 49322 49466 
+2021-10-04 17:38:25,341: INFO infoCategory : [todesk] CreateClipboardView 0
+2021-10-04 17:38:25,341: INFO infoCategory : Clipboard  old  0
+2021-10-04 17:38:25,341: INFO infoCategory : [todesk] CreateClipboardView 49322 49466 
+2021-10-04 17:38:25,341: INFO infoCategory : [todesk] CreateClipboardView 0
+2021-10-04 17:38:25,476: INFO infoCategory : createtray = 1
+2021-10-04 17:38:38,500: INFO infoCategory : VIDEO_CLIENT begin connect transfer server!!!
+2021-10-04 17:38:38,510: INFO infoCategory : tcp begin connect! address=106.75.175.200 port=443
+2021-10-04 17:38:38,510: INFO infoCategory : tcp end connect! ret=-1
+2021-10-04 17:38:38,510: INFO infoCategory : tcp connect err! begin select!!
+2021-10-04 17:38:38,550: INFO infoCategory : VIDEO_CLIENT  transfer destroy! ip=106.75.175.200 port=443
+2021-10-04 17:41:01,780: INFO infoCategory : FILE_CLIENT begin connect transfer server!!!
+2021-10-04 17:41:01,780: INFO infoCategory : tcp begin connect! address=106.75.179.237 port=443
+2021-10-04 17:41:01,780: INFO infoCategory : tcp end connect! ret=-1
+2021-10-04 17:41:01,780: INFO infoCategory : tcp connect err! begin select!!
+2021-10-04 17:41:01,831: INFO infoCategory : FILE_CLIENT  transfer destroy! ip=106.75.179.237 port=443
+2021-10-04 17:41:02,956: INFO infoCategory : clinet file begin register p2p
+2021-10-04 17:41:03,005: INFO infoCategory : [UIError]: Error: (undefined) has no property - text
+
+2021-10-04 17:41:03,005: INFO infoCategory : [UIError]: 	at TransTypeChanged (this://app/FileTransfer.htm(345))
+
+2021-10-04 17:41:03,005: INFO infoCategory : [UIError]: 
+
+2021-10-04 17:41:03,005: INFO infoCategory : [UIError]: 
+
+2021-10-04 17:41:11,907: INFO infoCategory : sock recv err!! sock=2384 errno=0
+2021-10-04 17:41:11,907: INFO infoCategory : Client File while err
+2021-10-04 17:41:11,907: INFO infoCategory : disconnect=2384
+2021-10-04 17:41:11,908: INFO infoCategory : disconnect=2384
+2021-10-04 17:41:11,908: INFO infoCategory : shutdown socket err! errno=10038
+2021-10-04 17:41:11,908: INFO infoCategory : close socket err! errno=10038
+2021-10-04 17:41:11,916: INFO infoCategory : sock recv err!! sock=2556 errno=0
+2021-10-04 17:41:11,920: INFO infoCategory : disconnect=2556
+2021-10-04 17:41:11,920: INFO infoCategory : disconnect=2556
+2021-10-04 17:41:11,921: INFO infoCategory : shutdown socket err! errno=10038
+2021-10-04 17:41:11,921: INFO infoCategory : close socket err! errno=10038
+2021-10-04 18:16:50,665: INFO infoCategory : [todesk] CScopedClipboard CloseClipboard
+2021-10-04 18:18:03,458: INFO infoCategory : [todesk] CScopedClipboard CloseClipboard
+2021-10-04 18:25:50,981: INFO infoCategory : [todesk] CScopedClipboard CloseClipboard

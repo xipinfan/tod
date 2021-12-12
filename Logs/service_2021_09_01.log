@@ -1,0 +1,50 @@
+2021-09-01 16:03:22,531: INFO infoCategory : tcp begin connect! address=106.75.184.149 port=443
+2021-09-01 16:03:22,531: INFO infoCategory : tcp end connect! ret=-1
+2021-09-01 16:03:22,531: INFO infoCategory : tcp connect err! begin select!!
+2021-09-01 16:03:22,532: INFO infoCategory : CreateNamedPipe ok!! name=\\.\pipe\todesk_pipe
+2021-09-01 16:03:22,642: INFO infoCategory : center client doAuth ok!! sock=896
+2021-09-01 16:03:23,959: INFO infoCategory : disconnect=1100
+2021-09-01 16:03:23,959: INFO infoCategory : OnServiceControlStartClient!
+2021-09-01 16:03:23,959: INFO infoCategory : launchclient! sessionId=1
+2021-09-01 16:03:23,964: INFO infoCategory : process=explorer.exe sessionid=1
+2021-09-01 16:03:23,964: INFO infoCategory : CreateProcessAsUserA localprocess is show = 1   processPath="D:\toDesk\ToDesk.exe" 1440
+2021-09-01 16:03:23,984: INFO infoCategory : CreateProcessAsUserA success 1 pid=20116
+2021-09-01 16:03:44,384: INFO infoCategory : doRemotePowerOn maclist = 3C:52:82:5E:93:22
+2021-09-01 16:03:44,386: INFO infoCategory : doRemotePowerOn maclist = 3C:52:82:5E:93:22
+2021-09-01 19:23:15,649: INFO infoCategory : doRemotePowerOn maclist = 3C:52:82:5E:93:22
+2021-09-01 19:23:15,651: INFO infoCategory : doRemotePowerOn maclist = 3C:52:82:5E:93:22
+2021-09-01 20:57:39,110: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-09-01 20:57:39,110: INFO infoCategory : Service Control Session Changed begin!! msgid=7
+2021-09-02 10:00:42,784: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-09-02 10:00:42,784: INFO infoCategory : Service Control Session Changed begin!! msgid=8
+2021-09-02 21:04:46,592: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-09-02 21:04:46,592: INFO infoCategory : Service Control Session Changed begin!! msgid=7
+2021-09-03 10:01:32,564: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-09-03 10:01:32,564: INFO infoCategory : Service Control Session Changed begin!! msgid=8
+2021-09-03 11:21:21,885: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-09-03 11:21:21,885: INFO infoCategory : Service Control Session Changed begin!! msgid=7
+2021-09-03 17:04:26,870: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-09-03 17:04:26,870: INFO infoCategory : Service Control Session Changed begin!! msgid=8
+2021-09-03 17:30:27,420: INFO infoCategory : doRemotePowerOn maclist = 3C:52:82:5E:93:22
+2021-09-03 17:30:27,757: INFO infoCategory : doRemotePowerOn maclist = 3C:52:82:5E:93:22
+2021-09-03 20:54:38,085: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-09-03 20:54:38,091: INFO infoCategory : Service Control Session Changed begin!! msgid=7
+2021-09-04 07:54:00,680: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-09-04 07:54:00,683: INFO infoCategory : Service Control Session Changed begin!! msgid=8
+2021-09-04 09:10:34,178: INFO infoCategory : sock recv err!! sock=1284 errno=10054
+2021-09-04 09:10:34,179: INFO infoCategory : LocalConnErrMsg!
+2021-09-04 09:10:34,179: INFO infoCategory : disconnect=1284
+2021-09-04 09:10:34,182: INFO infoCategory : disconnect=1284
+2021-09-04 09:10:34,182: INFO infoCategory : shutdown socket err! errno=10038
+2021-09-04 09:10:34,182: INFO infoCategory : close socket err! errno=10038
+2021-09-04 09:10:34,345: INFO infoCategory : launchclient! sessionId=1
+2021-09-04 09:10:34,351: INFO infoCategory : process=explorer.exe sessionid=1
+2021-09-04 09:10:34,351: INFO infoCategory : CreateProcessAsUserA localprocess is show = 1   processPath="D:\toDesk\ToDesk.exe" 1440
+2021-09-04 09:10:34,900: INFO infoCategory : CreateProcessAsUserA success 1 pid=12620
+2021-09-04 09:10:38,312: INFO infoCategory : launchclient! sessionId=1
+2021-09-04 09:10:38,317: INFO infoCategory : process=explorer.exe sessionid=1
+2021-09-04 09:10:38,317: INFO infoCategory : CreateProcessAsUserA localprocess is show = 1   processPath="D:\toDesk\ToDesk.exe" 1440
+2021-09-04 09:10:38,330: INFO infoCategory : CreateProcessAsUserA success 1 pid=10868
+2021-09-04 09:10:38,824: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-09-04 09:10:38,824: INFO infoCategory : Service Control Session Changed begin!! msgid=6
+2021-09-04 09:10:40,502: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SHUTDOWN|SERVICE_CONTROL_STOP!

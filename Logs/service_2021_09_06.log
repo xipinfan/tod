@@ -1,0 +1,76 @@
+2021-09-06 21:36:32,554: INFO infoCategory : tcp begin connect! address=106.75.188.26 port=443
+2021-09-06 21:36:32,555: INFO infoCategory : tcp end connect! ret=-1
+2021-09-06 21:36:32,555: INFO infoCategory : tcp connect err! begin select!!
+2021-09-06 21:36:32,555: INFO infoCategory : CreateNamedPipe ok!! name=\\.\pipe\todesk_pipe
+2021-09-06 21:36:32,640: INFO infoCategory : center client doAuth ok!! sock=880
+2021-09-06 21:36:33,969: INFO infoCategory : disconnect=1196
+2021-09-06 21:36:33,969: INFO infoCategory : OnServiceControlStartClient!
+2021-09-06 21:36:33,969: INFO infoCategory : launchclient! sessionId=1
+2021-09-06 21:36:33,975: INFO infoCategory : process=explorer.exe sessionid=1
+2021-09-06 21:36:33,975: INFO infoCategory : CreateProcessAsUserA localprocess is show = 1   processPath="D:\toDesk\ToDesk.exe" 10180
+2021-09-06 21:36:33,995: INFO infoCategory : CreateProcessAsUserA success 1 pid=23612
+2021-09-06 23:10:28,195: INFO infoCategory : VIDEO_HOST begin connect transfer server!!!
+2021-09-06 23:10:28,202: INFO infoCategory : tcp begin connect! address=106.75.167.169 port=443
+2021-09-06 23:10:28,203: INFO infoCategory : tcp end connect! ret=-1
+2021-09-06 23:10:28,203: INFO infoCategory : tcp connect err! begin select!!
+2021-09-06 23:10:28,246: INFO infoCategory : create host conn  sock = 1576
+2021-09-06 23:10:28,251: INFO infoCategory : VIDEO_HOST  transfer destroy! ip=106.75.167.169 port=443
+2021-09-06 23:10:33,247: INFO infoCategory : sock recv err!! sock=1576 errno=0
+2021-09-06 23:10:33,247: INFO infoCategory : host conn delete begin!
+2021-09-06 23:10:33,247: INFO infoCategory : host conn disconnect!!! sock=1576
+2021-09-06 23:10:33,247: INFO infoCategory : disconnect=1576
+2021-09-06 23:10:33,256: INFO infoCategory : host conn delete begin1!
+2021-09-06 23:10:33,258: INFO infoCategory : disconnect=1576
+2021-09-06 23:10:33,258: INFO infoCategory : shutdown socket err! errno=10038
+2021-09-06 23:10:33,258: INFO infoCategory : close socket err! errno=10038
+2021-09-06 23:10:33,258: INFO infoCategory : host conn delete end!
+2021-09-06 23:10:33,264: INFO infoCategory : remove Host conn!!!
+2021-09-06 23:10:34,798: INFO infoCategory : VIDEO_HOST begin connect transfer server!!!
+2021-09-06 23:10:34,798: INFO infoCategory : tcp begin connect! address=106.75.167.169 port=443
+2021-09-06 23:10:34,798: INFO infoCategory : tcp end connect! ret=-1
+2021-09-06 23:10:34,798: INFO infoCategory : tcp connect err! begin select!!
+2021-09-06 23:10:34,840: INFO infoCategory : create host conn  sock = 1648
+2021-09-06 23:10:34,843: INFO infoCategory : VIDEO_HOST  transfer destroy! ip=106.75.167.169 port=443
+2021-09-06 23:10:35,974: INFO infoCategory : begin launch video session!
+2021-09-06 23:10:35,974: INFO infoCategory : StartProcess = "D:\toDesk\ToDesk_Session.exe" 1
+2021-09-06 23:10:46,612: INFO infoCategory : host begin register p2p
+2021-09-06 23:11:01,928: INFO infoCategory : host begin register p2p
+2021-09-06 23:11:17,233: INFO infoCategory : host begin register p2p
+2021-09-06 23:11:32,548: INFO infoCategory : host begin register p2p
+2021-09-06 23:11:47,887: INFO infoCategory : host begin register p2p
+2021-09-06 23:12:03,197: INFO infoCategory : host begin register p2p
+2021-09-06 23:12:18,500: INFO infoCategory : host begin register p2p
+2021-09-06 23:12:33,831: INFO infoCategory : host begin register p2p
+2021-09-06 23:12:49,173: INFO infoCategory : host begin register p2p
+2021-09-06 23:13:04,495: INFO infoCategory : host begin register p2p
+2021-09-06 23:13:19,807: INFO infoCategory : host begin register p2p
+2021-09-06 23:13:35,125: INFO infoCategory : host begin register p2p
+2021-09-06 23:13:48,711: INFO infoCategory : sock recv err!! sock=1648 errno=0
+2021-09-06 23:13:48,711: INFO infoCategory : host conn delete begin!
+2021-09-06 23:13:48,711: INFO infoCategory : host conn disconnect!!! sock=1648
+2021-09-06 23:13:48,711: INFO infoCategory : disconnect=1648
+2021-09-06 23:13:48,720: INFO infoCategory : host conn delete begin1!
+2021-09-06 23:13:48,722: INFO infoCategory : disconnect=1648
+2021-09-06 23:13:48,722: INFO infoCategory : shutdown socket err! errno=10038
+2021-09-06 23:13:48,722: INFO infoCategory : close socket err! errno=10038
+2021-09-06 23:13:48,723: INFO infoCategory : host conn delete end!
+2021-09-06 23:13:48,723: INFO infoCategory : remove Host conn!!!
+2021-09-06 23:13:48,723: INFO infoCategory : disconnect=1728
+2021-09-06 23:13:48,723: INFO infoCategory : shutdown socket err! errno=10057
+2021-09-06 23:13:48,723: INFO infoCategory : disconnect=1728
+2021-09-06 23:13:48,723: INFO infoCategory : shutdown socket err! errno=10038
+2021-09-06 23:13:48,723: INFO infoCategory : close socket err! errno=10038
+2021-09-06 23:13:48,735: INFO infoCategory : sock recv err!! sock=1688 errno=10054
+2021-09-06 23:13:48,735: INFO infoCategory : session conn destroy start!!!
+2021-09-06 23:13:48,735: INFO infoCategory : session conn disconnect!!! sock=1688
+2021-09-06 23:13:48,735: INFO infoCategory : disconnect=1688
+2021-09-06 23:13:48,735: INFO infoCategory : disconnect=1688
+2021-09-06 23:13:48,735: INFO infoCategory : shutdown socket err! errno=10038
+2021-09-06 23:13:48,735: INFO infoCategory : close socket err! errno=10038
+2021-09-06 23:13:48,735: INFO infoCategory : session conn destroy end!!!
+2021-09-07 21:31:23,806: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-09-07 21:31:23,828: INFO infoCategory : Service Control Session Changed begin!! msgid=7
+2021-09-07 21:32:55,726: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-09-07 21:32:55,726: INFO infoCategory : Service Control Session Changed begin!! msgid=8
+2021-09-07 21:37:27,485: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-09-07 21:37:27,485: INFO infoCategory : Service Control Session Changed begin!! msgid=7

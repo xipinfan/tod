@@ -1,0 +1,414 @@
+2021-06-16 08:20:26,826: INFO infoCategory : tcp begin connect! address=106.75.188.26 port=443
+2021-06-16 08:20:26,826: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:20:26,826: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:20:26,827: INFO infoCategory : CreateNamedPipe ok!! name=\\.\pipe\todesk_pipe
+2021-06-16 08:20:27,076: INFO infoCategory : center client doAuth ok!! sock=872
+2021-06-16 08:21:08,951: INFO infoCategory : ss sock recv err!! sock=15321464 errno=0
+2021-06-16 08:21:08,951: INFO infoCategory : center client first read err!! sock=872 ip=106.75.188.26 port=443
+2021-06-16 08:21:08,955: INFO infoCategory : center client disconnect!! sock=872
+2021-06-16 08:21:08,955: INFO infoCategory : disconnect=872
+2021-06-16 08:21:08,956: INFO infoCategory : disconnect=872
+2021-06-16 08:21:08,956: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:21:08,956: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:21:21,597: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:21:21,597: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:21:21,597: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:21:26,598: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:21:26,598: INFO infoCategory : center client connect err!! sock=984 ip=106.75.157.148 port=443
+2021-06-16 08:21:26,610: INFO infoCategory : center client disconnect!! sock=984
+2021-06-16 08:21:26,610: INFO infoCategory : disconnect=984
+2021-06-16 08:21:26,610: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:21:26,610: INFO infoCategory : disconnect=984
+2021-06-16 08:21:26,610: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:21:26,610: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:21:40,891: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:21:40,891: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:21:40,891: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:21:45,891: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:21:45,891: INFO infoCategory : center client connect err!! sock=1232 ip=106.75.157.148 port=443
+2021-06-16 08:21:45,904: INFO infoCategory : center client disconnect!! sock=1232
+2021-06-16 08:21:45,904: INFO infoCategory : disconnect=1232
+2021-06-16 08:21:45,904: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:21:45,904: INFO infoCategory : disconnect=1232
+2021-06-16 08:21:45,904: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:21:45,904: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:21:57,042: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:21:57,042: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:21:57,042: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:22:02,042: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:22:02,042: INFO infoCategory : center client connect err!! sock=984 ip=106.75.157.148 port=443
+2021-06-16 08:22:02,054: INFO infoCategory : center client disconnect!! sock=984
+2021-06-16 08:22:02,054: INFO infoCategory : disconnect=984
+2021-06-16 08:22:02,054: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:22:02,054: INFO infoCategory : disconnect=984
+2021-06-16 08:22:02,054: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:22:02,054: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:22:18,640: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:22:18,640: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:22:18,640: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:22:23,640: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:22:23,640: INFO infoCategory : center client connect err!! sock=1124 ip=106.75.157.148 port=443
+2021-06-16 08:22:23,652: INFO infoCategory : center client disconnect!! sock=1124
+2021-06-16 08:22:23,652: INFO infoCategory : disconnect=1124
+2021-06-16 08:22:23,652: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:22:23,652: INFO infoCategory : disconnect=1124
+2021-06-16 08:22:23,652: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:22:23,652: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:22:37,802: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:22:37,802: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:22:37,803: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:22:42,803: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:22:42,803: INFO infoCategory : center client connect err!! sock=1048 ip=106.75.157.148 port=443
+2021-06-16 08:22:42,814: INFO infoCategory : center client disconnect!! sock=1048
+2021-06-16 08:22:42,814: INFO infoCategory : disconnect=1048
+2021-06-16 08:22:42,814: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:22:42,814: INFO infoCategory : disconnect=1048
+2021-06-16 08:22:42,814: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:22:42,814: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:22:54,755: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:22:54,755: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:22:54,755: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:22:59,755: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:22:59,755: INFO infoCategory : center client connect err!! sock=848 ip=106.75.157.148 port=443
+2021-06-16 08:22:59,758: INFO infoCategory : center client disconnect!! sock=848
+2021-06-16 08:22:59,758: INFO infoCategory : disconnect=848
+2021-06-16 08:22:59,758: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:22:59,758: INFO infoCategory : disconnect=848
+2021-06-16 08:22:59,758: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:22:59,758: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:23:16,161: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:23:16,161: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:23:16,161: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:23:21,161: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:23:21,161: INFO infoCategory : center client connect err!! sock=1108 ip=106.75.157.148 port=443
+2021-06-16 08:23:21,172: INFO infoCategory : center client disconnect!! sock=1108
+2021-06-16 08:23:21,172: INFO infoCategory : disconnect=1108
+2021-06-16 08:23:21,172: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:23:21,172: INFO infoCategory : disconnect=1108
+2021-06-16 08:23:21,172: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:23:21,172: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:23:34,521: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:23:34,521: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:23:34,521: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:23:39,521: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:23:39,521: INFO infoCategory : center client connect err!! sock=1244 ip=106.75.157.148 port=443
+2021-06-16 08:23:39,526: INFO infoCategory : center client disconnect!! sock=1244
+2021-06-16 08:23:39,526: INFO infoCategory : disconnect=1244
+2021-06-16 08:23:39,526: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:23:39,526: INFO infoCategory : disconnect=1244
+2021-06-16 08:23:39,526: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:23:39,526: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:23:53,290: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:23:53,290: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:23:53,290: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:23:58,291: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:23:58,291: INFO infoCategory : center client connect err!! sock=1120 ip=106.75.157.148 port=443
+2021-06-16 08:23:58,293: INFO infoCategory : center client disconnect!! sock=1120
+2021-06-16 08:23:58,293: INFO infoCategory : disconnect=1120
+2021-06-16 08:23:58,293: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:23:58,293: INFO infoCategory : disconnect=1120
+2021-06-16 08:23:58,293: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:23:58,294: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:24:23,749: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:24:23,749: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:24:23,749: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:24:28,749: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:24:28,749: INFO infoCategory : center client connect err!! sock=936 ip=106.75.157.148 port=443
+2021-06-16 08:24:28,760: INFO infoCategory : center client disconnect!! sock=936
+2021-06-16 08:24:28,760: INFO infoCategory : disconnect=936
+2021-06-16 08:24:28,760: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:24:28,760: INFO infoCategory : disconnect=936
+2021-06-16 08:24:28,760: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:24:28,760: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:24:57,940: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:24:57,940: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:24:57,940: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:25:02,941: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:25:02,941: INFO infoCategory : center client connect err!! sock=1252 ip=106.75.157.148 port=443
+2021-06-16 08:25:02,949: INFO infoCategory : center client disconnect!! sock=1252
+2021-06-16 08:25:02,949: INFO infoCategory : disconnect=1252
+2021-06-16 08:25:02,949: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:25:02,949: INFO infoCategory : disconnect=1252
+2021-06-16 08:25:02,949: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:25:02,949: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:25:26,121: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:25:26,121: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:25:26,121: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:25:31,121: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:25:31,121: INFO infoCategory : center client connect err!! sock=1168 ip=106.75.157.148 port=443
+2021-06-16 08:25:31,132: INFO infoCategory : center client disconnect!! sock=1168
+2021-06-16 08:25:31,133: INFO infoCategory : disconnect=1168
+2021-06-16 08:25:31,133: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:25:31,133: INFO infoCategory : disconnect=1168
+2021-06-16 08:25:31,133: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:25:31,133: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:25:52,365: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:25:52,365: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:25:52,366: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:25:57,366: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:25:57,366: INFO infoCategory : center client connect err!! sock=1272 ip=106.75.157.148 port=443
+2021-06-16 08:25:57,379: INFO infoCategory : center client disconnect!! sock=1272
+2021-06-16 08:25:57,379: INFO infoCategory : disconnect=1272
+2021-06-16 08:25:57,379: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:25:57,379: INFO infoCategory : disconnect=1272
+2021-06-16 08:25:57,379: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:25:57,379: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:26:16,394: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:26:16,394: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:26:16,394: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:26:21,395: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:26:21,395: INFO infoCategory : center client connect err!! sock=936 ip=106.75.157.148 port=443
+2021-06-16 08:26:21,406: INFO infoCategory : center client disconnect!! sock=936
+2021-06-16 08:26:21,406: INFO infoCategory : disconnect=936
+2021-06-16 08:26:21,406: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:26:21,406: INFO infoCategory : disconnect=936
+2021-06-16 08:26:21,406: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:26:21,406: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:26:38,581: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:26:38,581: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:26:38,581: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:26:43,581: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:26:43,581: INFO infoCategory : center client connect err!! sock=1264 ip=106.75.157.148 port=443
+2021-06-16 08:26:43,592: INFO infoCategory : center client disconnect!! sock=1264
+2021-06-16 08:26:43,592: INFO infoCategory : disconnect=1264
+2021-06-16 08:26:43,592: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:26:43,592: INFO infoCategory : disconnect=1264
+2021-06-16 08:26:43,592: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:26:43,592: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:26:55,317: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:26:55,317: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:26:55,317: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:27:00,317: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:27:00,317: INFO infoCategory : center client connect err!! sock=1280 ip=106.75.157.148 port=443
+2021-06-16 08:27:00,320: INFO infoCategory : center client disconnect!! sock=1280
+2021-06-16 08:27:00,320: INFO infoCategory : disconnect=1280
+2021-06-16 08:27:00,320: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:27:00,320: INFO infoCategory : disconnect=1280
+2021-06-16 08:27:00,320: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:27:00,320: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:27:15,829: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:27:15,829: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:27:15,829: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:27:20,829: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:27:20,829: INFO infoCategory : center client connect err!! sock=1276 ip=106.75.157.148 port=443
+2021-06-16 08:27:20,840: INFO infoCategory : center client disconnect!! sock=1276
+2021-06-16 08:27:20,840: INFO infoCategory : disconnect=1276
+2021-06-16 08:27:20,840: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:27:20,840: INFO infoCategory : disconnect=1276
+2021-06-16 08:27:20,840: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:27:20,840: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:27:42,356: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:27:42,356: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:27:42,356: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:27:47,356: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:27:47,356: INFO infoCategory : center client connect err!! sock=1260 ip=106.75.157.148 port=443
+2021-06-16 08:27:47,366: INFO infoCategory : center client disconnect!! sock=1260
+2021-06-16 08:27:47,366: INFO infoCategory : disconnect=1260
+2021-06-16 08:27:47,366: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:27:47,366: INFO infoCategory : disconnect=1260
+2021-06-16 08:27:47,366: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:27:47,366: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:28:09,690: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:28:09,690: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:28:09,690: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:28:14,690: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:28:14,691: INFO infoCategory : center client connect err!! sock=1280 ip=106.75.157.148 port=443
+2021-06-16 08:28:14,702: INFO infoCategory : center client disconnect!! sock=1280
+2021-06-16 08:28:14,702: INFO infoCategory : disconnect=1280
+2021-06-16 08:28:14,702: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:28:14,702: INFO infoCategory : disconnect=1280
+2021-06-16 08:28:14,702: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:28:14,702: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:28:44,090: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:28:44,090: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:28:44,090: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:28:49,091: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:28:49,091: INFO infoCategory : center client connect err!! sock=1284 ip=106.75.157.148 port=443
+2021-06-16 08:28:49,099: INFO infoCategory : center client disconnect!! sock=1284
+2021-06-16 08:28:49,099: INFO infoCategory : disconnect=1284
+2021-06-16 08:28:49,099: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:28:49,099: INFO infoCategory : disconnect=1284
+2021-06-16 08:28:49,099: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:28:49,099: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:29:16,372: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:29:16,373: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:29:16,373: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:29:21,373: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:29:21,373: INFO infoCategory : center client connect err!! sock=1240 ip=106.75.157.148 port=443
+2021-06-16 08:29:21,383: INFO infoCategory : center client disconnect!! sock=1240
+2021-06-16 08:29:21,383: INFO infoCategory : disconnect=1240
+2021-06-16 08:29:21,383: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:29:21,383: INFO infoCategory : disconnect=1240
+2021-06-16 08:29:21,383: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:29:21,383: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:29:47,768: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:29:47,768: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:29:47,768: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:29:52,768: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:29:52,768: INFO infoCategory : center client connect err!! sock=1260 ip=106.75.157.148 port=443
+2021-06-16 08:29:52,780: INFO infoCategory : center client disconnect!! sock=1260
+2021-06-16 08:29:52,780: INFO infoCategory : disconnect=1260
+2021-06-16 08:29:52,780: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:29:52,781: INFO infoCategory : disconnect=1260
+2021-06-16 08:29:52,781: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:29:52,781: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:30:22,282: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:30:22,282: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:30:22,282: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:30:27,282: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:30:27,282: INFO infoCategory : center client connect err!! sock=1296 ip=106.75.157.148 port=443
+2021-06-16 08:30:27,295: INFO infoCategory : center client disconnect!! sock=1296
+2021-06-16 08:30:27,295: INFO infoCategory : disconnect=1296
+2021-06-16 08:30:27,295: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:30:27,295: INFO infoCategory : disconnect=1296
+2021-06-16 08:30:27,295: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:30:27,295: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:30:44,075: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:30:44,075: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:30:44,075: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:30:49,074: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:30:49,074: INFO infoCategory : center client connect err!! sock=936 ip=106.75.157.148 port=443
+2021-06-16 08:30:49,086: INFO infoCategory : center client disconnect!! sock=936
+2021-06-16 08:30:49,086: INFO infoCategory : disconnect=936
+2021-06-16 08:30:49,086: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:30:49,086: INFO infoCategory : disconnect=936
+2021-06-16 08:30:49,086: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:30:49,086: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:31:02,358: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:31:02,358: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:31:02,358: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:31:07,358: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:31:07,358: INFO infoCategory : center client connect err!! sock=1284 ip=106.75.157.148 port=443
+2021-06-16 08:31:07,361: INFO infoCategory : center client disconnect!! sock=1284
+2021-06-16 08:31:07,361: INFO infoCategory : disconnect=1284
+2021-06-16 08:31:07,361: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:31:07,361: INFO infoCategory : disconnect=1284
+2021-06-16 08:31:07,361: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:31:07,361: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:31:33,967: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:31:33,967: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:31:33,967: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:31:38,967: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:31:38,967: INFO infoCategory : center client connect err!! sock=1248 ip=106.75.157.148 port=443
+2021-06-16 08:31:38,978: INFO infoCategory : center client disconnect!! sock=1248
+2021-06-16 08:31:38,978: INFO infoCategory : disconnect=1248
+2021-06-16 08:31:38,978: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:31:38,978: INFO infoCategory : disconnect=1248
+2021-06-16 08:31:38,978: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:31:38,978: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:31:56,573: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:31:56,573: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:31:56,573: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:32:01,573: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:32:01,573: INFO infoCategory : center client connect err!! sock=1240 ip=106.75.157.148 port=443
+2021-06-16 08:32:01,576: INFO infoCategory : center client disconnect!! sock=1240
+2021-06-16 08:32:01,576: INFO infoCategory : disconnect=1240
+2021-06-16 08:32:01,576: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:32:01,576: INFO infoCategory : disconnect=1240
+2021-06-16 08:32:01,576: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:32:01,576: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:32:31,294: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:32:31,294: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:32:31,294: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:32:36,294: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:32:36,294: INFO infoCategory : center client connect err!! sock=1172 ip=106.75.157.148 port=443
+2021-06-16 08:32:36,296: INFO infoCategory : center client disconnect!! sock=1172
+2021-06-16 08:32:36,296: INFO infoCategory : disconnect=1172
+2021-06-16 08:32:36,296: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:32:36,296: INFO infoCategory : disconnect=1172
+2021-06-16 08:32:36,296: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:32:36,296: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:32:52,283: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:32:52,283: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:32:52,283: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:32:57,282: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:32:57,282: INFO infoCategory : center client connect err!! sock=1148 ip=106.75.157.148 port=443
+2021-06-16 08:32:57,292: INFO infoCategory : center client disconnect!! sock=1148
+2021-06-16 08:32:57,292: INFO infoCategory : disconnect=1148
+2021-06-16 08:32:57,292: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:32:57,292: INFO infoCategory : disconnect=1148
+2021-06-16 08:32:57,292: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:32:57,292: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:33:17,020: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:33:17,020: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:33:17,020: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:33:22,021: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:33:22,021: INFO infoCategory : center client connect err!! sock=1284 ip=106.75.157.148 port=443
+2021-06-16 08:33:22,032: INFO infoCategory : center client disconnect!! sock=1284
+2021-06-16 08:33:22,032: INFO infoCategory : disconnect=1284
+2021-06-16 08:33:22,033: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:33:22,033: INFO infoCategory : disconnect=1284
+2021-06-16 08:33:22,033: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:33:22,033: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:33:49,926: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:33:49,926: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:33:49,926: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:33:54,926: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:33:54,926: INFO infoCategory : center client connect err!! sock=1308 ip=106.75.157.148 port=443
+2021-06-16 08:33:54,934: INFO infoCategory : center client disconnect!! sock=1308
+2021-06-16 08:33:54,934: INFO infoCategory : disconnect=1308
+2021-06-16 08:33:54,934: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:33:54,934: INFO infoCategory : disconnect=1308
+2021-06-16 08:33:54,934: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:33:54,934: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:34:18,776: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:34:18,776: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:34:18,776: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:34:23,776: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:34:23,776: INFO infoCategory : center client connect err!! sock=1312 ip=106.75.157.148 port=443
+2021-06-16 08:34:23,786: INFO infoCategory : center client disconnect!! sock=1312
+2021-06-16 08:34:23,786: INFO infoCategory : disconnect=1312
+2021-06-16 08:34:23,786: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:34:23,786: INFO infoCategory : disconnect=1312
+2021-06-16 08:34:23,786: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:34:23,786: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:34:40,360: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:34:40,360: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:34:40,360: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:34:45,360: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:34:45,360: INFO infoCategory : center client connect err!! sock=1316 ip=106.75.157.148 port=443
+2021-06-16 08:34:45,371: INFO infoCategory : center client disconnect!! sock=1316
+2021-06-16 08:34:45,371: INFO infoCategory : disconnect=1316
+2021-06-16 08:34:45,371: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:34:45,371: INFO infoCategory : disconnect=1316
+2021-06-16 08:34:45,371: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:34:45,371: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:35:04,551: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:35:04,551: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:35:04,551: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:35:09,551: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:35:09,551: INFO infoCategory : center client connect err!! sock=1336 ip=106.75.157.148 port=443
+2021-06-16 08:35:09,563: INFO infoCategory : center client disconnect!! sock=1336
+2021-06-16 08:35:09,563: INFO infoCategory : disconnect=1336
+2021-06-16 08:35:09,563: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:35:09,563: INFO infoCategory : disconnect=1336
+2021-06-16 08:35:09,563: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:35:09,563: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:35:27,539: INFO infoCategory : tcp begin connect! address=106.75.157.148 port=443
+2021-06-16 08:35:27,539: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:35:27,539: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:35:32,540: INFO infoCategory : sock connect select err!! errno=0
+2021-06-16 08:35:32,540: INFO infoCategory : center client connect err!! sock=936 ip=106.75.157.148 port=443
+2021-06-16 08:35:32,552: INFO infoCategory : center client disconnect!! sock=936
+2021-06-16 08:35:32,552: INFO infoCategory : disconnect=936
+2021-06-16 08:35:32,552: INFO infoCategory : shutdown socket err! errno=10057
+2021-06-16 08:35:32,552: INFO infoCategory : disconnect=936
+2021-06-16 08:35:32,552: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 08:35:32,552: INFO infoCategory : close socket err! errno=10038
+2021-06-16 08:36:01,599: INFO infoCategory : tcp begin connect! address=106.75.184.149 port=443
+2021-06-16 08:36:01,599: INFO infoCategory : tcp end connect! ret=-1
+2021-06-16 08:36:01,599: INFO infoCategory : tcp connect err! begin select!!
+2021-06-16 08:36:01,776: INFO infoCategory : center client doAuth ok!! sock=1236
+2021-06-16 11:31:19,739: INFO infoCategory : sock recv err!! sock=1140 errno=10054
+2021-06-16 11:31:19,869: INFO infoCategory : LocalConnErrMsg!
+2021-06-16 11:31:19,869: INFO infoCategory : disconnect=1140
+2021-06-16 11:31:19,870: INFO infoCategory : disconnect=1140
+2021-06-16 11:31:19,870: INFO infoCategory : shutdown socket err! errno=10038
+2021-06-16 11:31:19,870: INFO infoCategory : close socket err! errno=10038
+2021-06-16 11:31:22,744: INFO infoCategory : launchclient! sessionId=1
+2021-06-16 11:31:22,749: INFO infoCategory : process=explorer.exe sessionid=1
+2021-06-16 11:31:22,749: INFO infoCategory : CreateProcessAsUserA localprocess is show = 0   processPath="D:\toDesk\ToDesk.exe" 12916
+2021-06-16 11:31:23,108: INFO infoCategory : CreateProcessAsUserA success 1 pid=11856
+2021-06-16 11:31:26,274: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SESSIONCHANGE!
+2021-06-16 11:31:26,274: INFO infoCategory : Service Control Session Changed begin!! msgid=6
+2021-06-16 11:31:28,022: INFO infoCategory : ServiceStrl SERVICE_CONTROL_SHUTDOWN|SERVICE_CONTROL_STOP!

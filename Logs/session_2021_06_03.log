@@ -1,0 +1,30 @@
+2021-06-03 23:00:19,109: INFO infoCategory : tcp begin connect! address=127.0.0.1 port=35600
+2021-06-03 23:00:19,110: INFO infoCategory : tcp end connect! ret=-1
+2021-06-03 23:00:19,110: INFO infoCategory : tcp connect err! begin select!!
+2021-06-03 23:00:19,595: INFO infoCategory : Failed to duplicate output from IDXGIOutput1, error with code 
+2021-06-03 23:00:19,596: INFO infoCategory : Failed to initialize DxgiOutputDuplicator on output 0
+2021-06-03 23:00:19,596: INFO infoCategory : Cannot initialize any DxgiOutputDuplicator instance
+2021-06-03 23:00:19,596: INFO infoCategory : Failed to initialize DxgiAdapterDuplicator on adapter 0
+2021-06-03 23:00:19,596: INFO infoCategory : Cannot initialize any DxgiOutputDuplicator instance
+2021-06-03 23:00:19,596: INFO infoCategory : Failed to initialize DxgiAdapterDuplicator on adapter 1
+2021-06-03 23:00:19,596: INFO infoCategory : Cannot initialize any DxgiOutputDuplicator instance
+2021-06-03 23:00:19,596: INFO infoCategory : Failed to initialize DxgiAdapterDuplicator on adapter 2
+2021-06-03 23:00:19,596: INFO infoCategory : Cannot initialize any DxgiAdapterDuplicator instance
+2021-06-03 23:00:19,622: INFO infoCategory : Using gdi capturer
+2021-06-03 23:00:19,622: INFO infoCategory : screenCount = 1
+2021-06-03 23:01:00,367: INFO infoCategory : sock recv err!! sock=580 errno=0
+2021-06-03 23:04:18,359: INFO infoCategory : tcp begin connect! address=127.0.0.1 port=35600
+2021-06-03 23:04:18,359: INFO infoCategory : tcp end connect! ret=-1
+2021-06-03 23:04:18,359: INFO infoCategory : tcp connect err! begin select!!
+2021-06-03 23:04:18,445: INFO infoCategory : Failed to duplicate output from IDXGIOutput1, error with code 
+2021-06-03 23:04:18,445: INFO infoCategory : Failed to initialize DxgiOutputDuplicator on output 0
+2021-06-03 23:04:18,446: INFO infoCategory : Cannot initialize any DxgiOutputDuplicator instance
+2021-06-03 23:04:18,446: INFO infoCategory : Failed to initialize DxgiAdapterDuplicator on adapter 0
+2021-06-03 23:04:18,446: INFO infoCategory : Cannot initialize any DxgiOutputDuplicator instance
+2021-06-03 23:04:18,446: INFO infoCategory : Failed to initialize DxgiAdapterDuplicator on adapter 1
+2021-06-03 23:04:18,446: INFO infoCategory : Cannot initialize any DxgiOutputDuplicator instance
+2021-06-03 23:04:18,446: INFO infoCategory : Failed to initialize DxgiAdapterDuplicator on adapter 2
+2021-06-03 23:04:18,446: INFO infoCategory : Cannot initialize any DxgiAdapterDuplicator instance
+2021-06-03 23:04:18,459: INFO infoCategory : Using gdi capturer
+2021-06-03 23:04:18,460: INFO infoCategory : screenCount = 1
+2021-06-03 23:08:50,018: INFO infoCategory : sock recv err!! sock=588 errno=0

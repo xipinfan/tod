@@ -1,0 +1,23 @@
+{
+   "DeviceInfo" : [
+      {
+         "Cam_Bright" : -1,
+         "Cam_Height" : 0,
+         "Cam_Quality" : 0,
+         "Cam_Voice" : 0,
+         "Cam_Width" : 0,
+         "Clipboard" : 1,
+         "Height" : 1030,
+         "LastPath" : "",
+         "PassEx" : "17383068d4c22fd7a1ce7f12b90c5812a1a0ea4fbad30afb14f2cc6054ca649f5c3ae410395e7c02d38de17f09f1397c9c4790bc3400",
+         "PrivacyScreen" : 0,
+         "Quality" : 0,
+         "ResolutionX" : 0,
+         "ResolutionY" : 0,
+         "ScreenMode" : 0,
+         "UserId" : "896149578",
+         "Voice" : 0,
+         "Width" : 1920
+      }
+   ]
+}

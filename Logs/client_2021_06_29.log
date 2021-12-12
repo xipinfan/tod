@@ -1,0 +1,9 @@
+2021-06-29 09:02:58,625: INFO infoCategory : tcp begin connect! address=127.0.0.1 port=35600
+2021-06-29 09:02:58,626: INFO infoCategory : tcp end connect! ret=-1
+2021-06-29 09:02:58,626: INFO infoCategory : tcp connect err! begin select!!
+2021-06-29 09:02:58,641: INFO infoCategory : [todesk] CreateClipboardView 49315 49380 
+2021-06-29 09:02:58,641: INFO infoCategory : [todesk] CreateClipboardView 0
+2021-06-29 09:02:58,641: INFO infoCategory : Clipboard  old  0
+2021-06-29 09:02:58,641: INFO infoCategory : [todesk] CreateClipboardView 49315 49380 
+2021-06-29 09:02:58,641: INFO infoCategory : [todesk] CreateClipboardView 0
+2021-06-29 09:02:58,744: INFO infoCategory : createtray = 1
